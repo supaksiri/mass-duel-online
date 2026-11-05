@@ -1,0 +1,1 @@
+{"rules":{"rooms":{"$room":{".read":"auth != null", ".write":false}},"privateRooms":{".read":false,".write":false},".read":false,".write":false}}
